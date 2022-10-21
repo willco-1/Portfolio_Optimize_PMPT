@@ -1,4 +1,4 @@
-# Modern Portfolio Theory Based Portfolio Analysis and Optimization
+#Post Modern Portfolio Theory Based Portfolio Analysis and Optimization
 
 The project is about the **Post-Modern Portfolio Theory (MPT)** based analysis and optimization of a given portfolio’s returns based on individual investors’ risk tolerance. It is a continuation and evolution of the original project referenced in contributions section below.
 
